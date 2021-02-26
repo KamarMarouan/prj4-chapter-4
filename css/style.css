@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+body {
+	font-family: 'Oswald', sans-serif;
+}
+
+#titles h1 {
+	margin-bottom: 10px;
+	color: black;
+	position: relative;
+	top: 5px;
+	text-align: center;
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+
+		
+}
+
+#titles h2 {
+	margin-top: 10px; 
+	color: black;
+	position: relative;
+	bottom: 5px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+#titles {
+      background-image: url("../images/a3758570025_16.jpg");
+}
+
+.container {
+	background-color: #0A65E9;
+	color: white;
+	width: 300px;
+  border: 2px solid black;
+  padding: 5px;
+  margin: 20px;
+	float: left;
+}
+
+.chris {
+	float: left;
+	margin: 15px;
+}
+.contactbtn {
+	float: right;
+}
+
+.contactbtn a {
+  margin-right: 30px;
+  padding: 6px 10px;
+  border: 2px solid #797979;
+  background-color: white;
+	color: #797979;
+	
+}
+
+.contactbtn a:active {
+	position: relative;
+	top: 2px;
+	
+}
+
+.text h2 { 
+	margin-bottom: 1px;
+	margin-right: 30px;
+
+	
+}
+
+
+	
+
+	
